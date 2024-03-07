@@ -1,0 +1,1 @@
+Template do create-react-app criado para ser utilizado no início do módulo de React do curso da Driven.
